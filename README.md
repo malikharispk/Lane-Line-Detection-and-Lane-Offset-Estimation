@@ -1,8 +1,8 @@
 # Lane-Line-Detection-Lane-Offset-Estimation
 
 # requirements.txt 
-python==3.5     #https://www.python.org/downloads/windows/
-random-number==0.03
+python==3.5     #https://www.python.org/downloads/windows/  
+random-number==0.03  
 math2
 numpy==1.8.0
 misc
